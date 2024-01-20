@@ -1,0 +1,8 @@
+search/.nbtest.yml
+search/_nbtest.setup.ipynb
+search/_nbtest.teardown.03-ELSER.ipynb
+search/_nbtest.teardown.ipynb
+search/articles.json
+search/data.json
+search/movies.json
+search/query-rules-data.json
